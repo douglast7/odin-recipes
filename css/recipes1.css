@@ -74,3 +74,14 @@ main > article > h3 {
 main > article > p {
   line-height: 1.5;
 }
+
+/* Cooker */
+
+.directions > div > h4 {
+  padding-bottom: 10px;
+}
+
+.directions > div > p {
+  padding-bottom: 10px;
+  line-height: 1.5;
+}
